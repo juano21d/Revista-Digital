@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rayuela",
+    "pais": "Ecuador",
+    "descripcion": "Juego tradicional que consiste en saltar sobre cuadrados dibujados en el suelo, desarrollando coordinación, equilibrio y habilidades sociales. Es una actividad que fomenta la paciencia y la precisión.",
+    "imagen": "/imagenes/Rayuela.jpeg",
+    "valores": [
+      "coordinación",
+      "paciencia",
+      "respeto de turnos",
+      "perseverancia"
+    ],
+    "materiales": "tiza o marcador, piedra pequeña o ficha",
+    "gammaUrl": "https://gamma.app/embed/bhytqd8yqqr9bcd"
+  },
+  {
+    "id": 2,
+    "nombre": "Trompo",
+    "pais": "Ecuador",
+    "descripcion": "Juguete tradicional de madera que gira mediante un cordel. Su manejo requiere destreza y práctica, enseñando perseverancia y habilidades motoras finas. Es símbolo de la cultura popular ecuatoriana.",
+    "imagen": "/imagenes/Trompo.jpeg",
+    "valores": [
+      "destreza manual",
+      "perseverancia",
+      "concentración",
+      "tradición cultural"
+    ],
+    "materiales": "trompo de madera, cordel o piola",
+    "gammaUrl": "https://gamma.app/embed/brf7sq0regxu7zb"
+  },
+  {
+    "id": 3,
+    "nombre": "Saltar la Cuerda",
+    "pais": "Ecuador",
+    "descripcion": "Actividad física que puede realizarse individual o grupalmente. Desarrolla coordinación, resistencia y ritmo. Las variantes grupales fomentan la cooperación y el trabajo en equipo.",
+    "imagen": "/imagenes/Saltar la Cuerda.jpeg",
+    "valores": [
+      "coordinación",
+      "trabajo en equipo",
+      "ritmo",
+      "resistencia física"
+    ],
+    "materiales": "cuerda o soga de aproximadamente 3 metros",
+    "gammaUrl": "https://gamma.app/embed/nzxwqng9h2m7wn0"
+  },
+  {
+    "id": 4,
+    "nombre": "Canicas",
+    "pais": "Ecuador",
+    "descripcion": "Juego de precisión donde los participantes intentan golpear canicas con otras. Desarrolla coordinación óculo-manual, concentración y estrategia. Promueve el intercambio social.",
+    "imagen": "/imagenes/Canicas.jpeg",
+    "valores": [
+      "precisión",
+      "concentración",
+      "intercambio social",
+      "estrategia"
+    ],
+    "materiales": "canicas de vidrio o cerámica, superficie lisa",
+    "gammaUrl": "https://gamma.app/embed/cpx9uolws5516xb"
+  },
+  {
+    "id": 5,
+    "nombre": "Soga Japonesa (Nawa-tobi)",
+    "pais": "Japón",
+    "descripcion": "Tradición milenaria donde grupos grandes saltan una soga muy larga coordinadamente. Enseña sincronización, paciencia y trabajo en equipo. Es parte de festivales escolares japoneses.",
+    "imagen": "/imagenes/Soga.jpeg",
+    "valores": [
+      "sincronización",
+      "trabajo en equipo",
+      "paciencia",
+      "cooperación"
+    ],
+    "materiales": "soga larga de 5-10 metros, espacio amplio",
+    "gammaUrl": "https://gamma.app/embed/xffe8w7xatvd4vx"
+  },
+  {
+    "id": 6,
+    "nombre": "Origami Móvil",
+    "pais": "Japón",
+    "descripcion": "Arte de crear figuras con papel que luego se usan en juegos. Desarrolla creatividad, concentración y habilidades motoras finas. Conecta arte con juego tradicional.",
+    "imagen": "/imagenes/Origami Movil.jpeg",
+    "valores": [
+      "creatividad",
+      "concentración",
+      "paciencia",
+      "arte tradicional"
+    ],
+    "materiales": "papel de colores, instrucciones de plegado",
+    "gammaUrl": "https://gamma.app/embed/ryilvgpsh4lm305"
+  },
+  {
+    "id": 7,
+    "nombre": "Canicas Mexicanas (Chivas)",
+    "pais": "México",
+    "descripcion": "Variante mexicana del juego de canicas con reglas específicas y técnicas particulares. Se juega en círculos dibujados y desarrolla puntería y estrategia social.",
+    "imagen": "/imagenes/Canicas Mexicanas.jpeg",
+    "valores": ["puntería", "estrategia", "negociación", "amistad"],
+    "materiales": "canicas de colores, tiza para dibujar círculos",
+    "gammaUrl": "https://gamma.app/embed/zaf5p8hqktd5c4x"
+  },
+  {
+    "id": 8,
+    "nombre": "Yoyo Tradicional",
+    "pais": "México",
+    "descripcion": "Juguete que sube y baja mediante una cuerda. Su dominio requiere práctica y coordinación. En México tiene variantes regionales y competencias tradicionales.",
+    "imagen": "/imagenes/Yoyo.jpeg",
+    "valores": [
+      "coordinación",
+      "perseverancia",
+      "creatividad",
+      "competencia amistosa"
+    ],
+    "materiales": "yoyo de madera o plástico con cuerda",
+    "gammaUrl": "https://gamma.app/embed/a605nbwn14pymam"
+  },
+  {
+    "id": 9,
+    "nombre": "Pirinola",
+    "pais": "México",
+    "descripcion": "Juego de azar con una pirinola (trompo con caras numeradas o con órdenes). Enseña sobre probabilidad de manera divertida y fomenta la socialización grupal.",
+    "imagen": "/imagenes/Pirinola.jpeg",
+    "valores": [
+      "socialización",
+      "probabilidad",
+      "diversión grupal",
+      "paciencia"
+    ],
+    "materiales": "pirinola, fichas o dulces para apostar",
+    "gammaUrl": "https://gamma.app/embed/qqmg5oinb45mhtq"
+  }
+]

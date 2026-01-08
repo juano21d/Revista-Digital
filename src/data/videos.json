@@ -1,0 +1,94 @@
+[
+  {
+    "titulo": "Rayuela Ecuatoriana - Tradición y Diversión",
+    "descripcion": "Documental educativo sobre cómo la rayuela tradicional ecuatoriana, sus varios juegos tradicionales.",
+    "videoId": "hBFwyRjp_QU",
+    "cultura": "Ecuador",
+    "duracion": "2:15",
+    "edad_recomendada": "4-10 años",
+    "valores_pedagogicos": [
+      "coordinación motora",
+      "paciencia",
+      "respeto de reglas"
+    ]
+  },
+  {
+    "titulo": "El Trompo: Arte y Tradición",
+    "descripcion": "Video que muestra el origen artesanal del trompo ecuatoriano y técnicas de uso.",
+    "videoId": "nuebou1B_Jw",
+    "cultura": "Ecuador",
+    "duracion": "2:12",
+    "edad_recomendada": "6-12 años",
+    "valores_pedagogicos": [
+      "artesanía tradicional",
+      "destreza manual",
+      "perseverancia",
+      "patrimonio cultural"
+    ]
+  },
+  {
+    "titulo": "Juegos de Cuerda",
+    "descripcion": "Comparativa de diferentes formas de saltar la cuerda en Ecuador, Colombia, México y otros países latinoamericanos, mostrando similitudes y diferencias culturales.",
+    "videoId": "C-yXG39lGfg",
+    "cultura": "América Latina",
+    "duracion": "15:20",
+    "edad_recomendada": "5-11 años",
+    "valores_pedagogicos": [
+      "diversidad cultural",
+      "ejercicio físico",
+      "ritmo",
+      "cooperación"
+    ]
+  },
+  {
+    "titulo": "Origami y Juego - Creatividad Japonesa",
+    "descripcion": "Tutorial sobre cómo crear juguetes tradicionales japoneses con papel (origami) y su historia.",
+    "videoId": "7VGZSoIoLAk",
+    "cultura": "Japón",
+    "duracion": "3:36",
+    "edad_recomendada": "6-12 años",
+    "valores_pedagogicos": [
+      "creatividad",
+      "concentración",
+      "arte tradicional",
+      "motricidad fina"
+    ]
+  },
+  {
+    "titulo": "Canicas",
+    "descripcion": "Exploración de la historia y las tecnicas de juego de las canicas en Ecuador y su valor cultural.",
+    "videoId": "3RJ6VQP3uT8",
+    "cultura": "Internacional",
+    "duracion": "2:21",
+    "edad_recomendada": "5-10 años",
+    "valores_pedagogicos": ["universalidad cultural", "precisión", "amistad"]
+  },
+  {
+    "titulo": "Cometas Colombianas - Volando Alto",
+    "descripcion": "Composición de cometas tradicionales colombianas y su historia, mostrando la conexión entre artesanía y diversión.",
+    "videoId": "7h4ZpFUF1x8",
+    "cultura": "Colombia",
+    "duracion": "1:43",
+    "edad_recomendada": "8-14 años",
+    "valores_pedagogicos": [
+      "artesanía",
+      "física básica",
+      "tradición familiar",
+      "creatividad"
+    ]
+  },
+  {
+    "titulo": "Yoyo Mexicano - Historia y Técnica",
+    "descripcion": "Historia del yoyo en México, técnicas básicas, y su papel en la cultura popular mexicana contemporánea.",
+    "videoId": "uXCImIrH7As",
+    "cultura": "México",
+    "duracion": "2:16",
+    "edad_recomendada": "7-15 años",
+    "valores_pedagogicos": [
+      "historia cultural",
+      "perseverancia",
+      "coordinación",
+      "paciencia"
+    ]
+  }
+]
